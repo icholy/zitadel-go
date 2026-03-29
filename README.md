@@ -1,3 +1,7 @@
+# This is a fork with the following change:
+
+PR: https://github.com/zitadel/zitadel-go/pull/592
+
 # Go SDK for Zitadel
 
 [![semantic-release](https://img.shields.io/badge/%20%20%F0%9F%93%A6%F0%9F%9A%80-semantic--release-e10079.svg)](https://github.com/semantic-release/semantic-release)
