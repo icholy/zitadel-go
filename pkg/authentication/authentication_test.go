@@ -14,10 +14,10 @@ import (
 	"github.com/stretchr/testify/require"
 	"github.com/zitadel/oidc/v3/pkg/crypto"
 	"github.com/zitadel/oidc/v3/pkg/oidc"
-	"github.com/zitadel/zitadel-go/v3/pkg/authentication"
-	"github.com/zitadel/zitadel-go/v3/pkg/authentication/internal"
-	zitadeloidc "github.com/zitadel/zitadel-go/v3/pkg/authentication/oidc"
-	"github.com/zitadel/zitadel-go/v3/pkg/zitadel"
+	"github.com/icholy/zitadel-go/v3/pkg/authentication"
+	"github.com/icholy/zitadel-go/v3/pkg/authentication/internal"
+	zitadeloidc "github.com/icholy/zitadel-go/v3/pkg/authentication/oidc"
+	"github.com/icholy/zitadel-go/v3/pkg/zitadel"
 )
 
 type testContext = *zitadeloidc.UserInfoContext[*oidc.IDTokenClaims, *oidc.UserInfo]

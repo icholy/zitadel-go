@@ -9,9 +9,9 @@ import (
 
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"
-	"github.com/zitadel/zitadel-go/v3/pkg/authorization"
-	"github.com/zitadel/zitadel-go/v3/pkg/http/middleware"
-	"github.com/zitadel/zitadel-go/v3/pkg/http/middleware/internal"
+	"github.com/icholy/zitadel-go/v3/pkg/authorization"
+	"github.com/icholy/zitadel-go/v3/pkg/http/middleware"
+	"github.com/icholy/zitadel-go/v3/pkg/http/middleware/internal"
 )
 
 // TestInterceptor_RequireAuthorization_Success verifies that when authorization

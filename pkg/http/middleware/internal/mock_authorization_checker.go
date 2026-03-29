@@ -4,7 +4,7 @@ package internal
 import (
 	"context"
 
-	"github.com/zitadel/zitadel-go/v3/pkg/authorization"
+	"github.com/icholy/zitadel-go/v3/pkg/authorization"
 )
 
 // MockAuthorizationChecker is a mock implementation of authorization.AuthorizationChecker

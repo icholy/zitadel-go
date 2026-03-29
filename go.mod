@@ -1,4 +1,4 @@
-module github.com/zitadel/zitadel-go/v3
+module github.com/icholy/zitadel-go/v3
 
 go 1.24.10
 

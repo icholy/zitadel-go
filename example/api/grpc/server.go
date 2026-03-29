@@ -9,10 +9,10 @@ import (
 	"google.golang.org/grpc/codes"
 	"google.golang.org/grpc/status"
 
-	v3alpha "github.com/zitadel/zitadel-go/v3/example/api/grpc/proto"
-	"github.com/zitadel/zitadel-go/v3/pkg/authorization"
-	"github.com/zitadel/zitadel-go/v3/pkg/authorization/oauth"
-	"github.com/zitadel/zitadel-go/v3/pkg/grpc/middleware"
+	v3alpha "github.com/icholy/zitadel-go/v3/example/api/grpc/proto"
+	"github.com/icholy/zitadel-go/v3/pkg/authorization"
+	"github.com/icholy/zitadel-go/v3/pkg/authorization/oauth"
+	"github.com/icholy/zitadel-go/v3/pkg/grpc/middleware"
 )
 
 var _ v3alpha.ExampleServiceServer = (*Server)(nil)

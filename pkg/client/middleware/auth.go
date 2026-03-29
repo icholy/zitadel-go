@@ -10,7 +10,7 @@ import (
 	"google.golang.org/grpc"
 	"google.golang.org/grpc/metadata"
 
-	"github.com/zitadel/zitadel-go/v3/pkg/client"
+	"github.com/icholy/zitadel-go/v3/pkg/client"
 )
 
 const (

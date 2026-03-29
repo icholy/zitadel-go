@@ -7,8 +7,8 @@ import (
 	"net/http"
 
 	"github.com/zitadel/oidc/v3/pkg/oidc"
-	"github.com/zitadel/zitadel-go/v3/pkg/client"
-	"github.com/zitadel/zitadel-go/v3/pkg/zitadel"
+	"github.com/icholy/zitadel-go/v3/pkg/client"
+	"github.com/icholy/zitadel-go/v3/pkg/zitadel"
 )
 
 // ExampleClient_GetValidToken demonstrates how to retrieve a valid access token

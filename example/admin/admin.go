@@ -7,10 +7,10 @@ import (
 
 	"github.com/zitadel/oidc/v3/pkg/oidc"
 
-	"github.com/zitadel/zitadel-go/v3/pkg/client/admin"
-	"github.com/zitadel/zitadel-go/v3/pkg/client/middleware"
-	"github.com/zitadel/zitadel-go/v3/pkg/client/zitadel"
-	pb "github.com/zitadel/zitadel-go/v3/pkg/client/zitadel/admin"
+	"github.com/icholy/zitadel-go/v3/pkg/client/admin"
+	"github.com/icholy/zitadel-go/v3/pkg/client/middleware"
+	"github.com/icholy/zitadel-go/v3/pkg/client/zitadel"
+	pb "github.com/icholy/zitadel-go/v3/pkg/client/zitadel/admin"
 )
 
 var (

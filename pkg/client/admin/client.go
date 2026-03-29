@@ -3,8 +3,8 @@ package admin
 import (
 	"context"
 
-	"github.com/zitadel/zitadel-go/v3/pkg/client/zitadel"
-	"github.com/zitadel/zitadel-go/v3/pkg/client/zitadel/admin"
+	"github.com/icholy/zitadel-go/v3/pkg/client/zitadel"
+	"github.com/icholy/zitadel-go/v3/pkg/client/zitadel/admin"
 )
 
 type Client struct {

@@ -10,8 +10,8 @@ import (
 	httphelper "github.com/zitadel/oidc/v3/pkg/http"
 	"github.com/zitadel/oidc/v3/pkg/oidc"
 
-	"github.com/zitadel/zitadel-go/v3/pkg/authentication"
-	"github.com/zitadel/zitadel-go/v3/pkg/zitadel"
+	"github.com/icholy/zitadel-go/v3/pkg/authentication"
+	"github.com/icholy/zitadel-go/v3/pkg/zitadel"
 )
 
 type DefaultContext = UserInfoContext[*oidc.IDTokenClaims, *oidc.UserInfo]

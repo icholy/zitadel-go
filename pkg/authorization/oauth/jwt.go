@@ -14,8 +14,8 @@ import (
 	"github.com/zitadel/oidc/v3/pkg/client/rp"
 	"github.com/zitadel/oidc/v3/pkg/oidc"
 
-	"github.com/zitadel/zitadel-go/v3/pkg/authorization"
-	"github.com/zitadel/zitadel-go/v3/pkg/zitadel"
+	"github.com/icholy/zitadel-go/v3/pkg/authorization"
+	"github.com/icholy/zitadel-go/v3/pkg/zitadel"
 )
 
 var (

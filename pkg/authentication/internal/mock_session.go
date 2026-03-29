@@ -4,7 +4,7 @@ package internal
 import (
 	"errors"
 
-	"github.com/zitadel/zitadel-go/v3/pkg/authentication"
+	"github.com/icholy/zitadel-go/v3/pkg/authentication"
 )
 
 // MockSessionStore is a mock implementation of a session store for testing purposes.

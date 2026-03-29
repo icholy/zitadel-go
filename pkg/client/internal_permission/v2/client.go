@@ -3,8 +3,8 @@ package v2
 import (
 	"context"
 
-	"github.com/zitadel/zitadel-go/v3/pkg/client/zitadel"
-	internal "github.com/zitadel/zitadel-go/v3/pkg/client/zitadel/internal_permission/v2"
+	"github.com/icholy/zitadel-go/v3/pkg/client/zitadel"
+	internal "github.com/icholy/zitadel-go/v3/pkg/client/zitadel/internal_permission/v2"
 )
 
 type Client struct {

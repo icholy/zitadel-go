@@ -3,8 +3,8 @@ package v2
 import (
 	"context"
 
-	"github.com/zitadel/zitadel-go/v3/pkg/client/zitadel"
-	webkey "github.com/zitadel/zitadel-go/v3/pkg/client/zitadel/webkey/v2"
+	"github.com/icholy/zitadel-go/v3/pkg/client/zitadel"
+	webkey "github.com/icholy/zitadel-go/v3/pkg/client/zitadel/webkey/v2"
 )
 
 type Client struct {
